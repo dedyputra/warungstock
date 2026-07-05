@@ -13,7 +13,6 @@
   <a href="#-fitur">Fitur</a> •
   <a href="#-alur-sistem">Alur Sistem</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-instalasi">Instalasi</a> •
   <a href="#-roadmap">Roadmap</a>
 </p>
 
