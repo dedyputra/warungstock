@@ -20,7 +20,7 @@
 
 ## 📌 Latar Belakang
 
-UMKM kuliner skala kecil-menengah umumnya mencatat stok bahan baku secara manual, sehingga rawan selisih stok, telat restock, dan tidak tahu menu mana yang marginnya paling tipis. Insight ini muncul dari pengamatan langsung di industri F&B, di mana pencatatan stok dan transaksi biasanya berjalan terpisah.
+UMKM kuliner skala kecil-menengah umumnya mencatat stok bahan baku secara manual, sehingga rawan selisih stok, telat restock, dan tidak tahu menu mana yang marginnya paling tipis. Insight ini muncul dari pengamatan langsung di industri Food and Beverage (FnB), di mana pencatatan stok dan transaksi biasanya berjalan terpisah.
 
 **WarungStock** menghubungkan resep tiap menu langsung ke data bahan baku, sehingga setiap transaksi otomatis memperbarui stok dan menghitung margin secara real-time.
 
