@@ -155,4 +155,4 @@ stock_logs         (id, ingredient_id, change_qty, reason)    -- audit trail
 - [Studi Kasus](./docs/STUDI_KASUS.md)
 - [Rencana Pengembangan Mingguan](./docs/RENCANA_MINGGUAN.md)
 
-<p align="center"><i>Dikembangkan bertahap di luar jam kerja, jangan lupa titik koma ya ; Semangat Pejuang :) </i></p>
+<p align="center"><i>Dikembangkan bertahap di luar jam kerja; Semangat Pejuang :) </i></p>
