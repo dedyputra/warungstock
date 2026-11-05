@@ -2,6 +2,5 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Sementara tanpa login supaya bisa langsung dicek tampilannya.
+Route::view('/', 'pages.dashboard')->name('dashboard');
