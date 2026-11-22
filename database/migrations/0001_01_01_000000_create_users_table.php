@@ -13,6 +13,9 @@ return new class extends Migration
     {
         Schema::create('users', function (Blueprint $table) {
             $table->id();
+            $table->foreignId('warung_id')->nullable()->after('id')
+                ->constrained('warungs')->cascadeOnDelete();
+            $table->string('role')->default('owner')->after('password'); // owner | staff
             $table->string('name');
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();

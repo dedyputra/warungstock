@@ -4,8 +4,7 @@
       &copy; {{ date('Y') }} Warung Stock
     </div>
     <div>
-      Template: KaiAdmin by
-      <a target="_blank" href="http://www.themekita.com">ThemeKita</a>
+      Develop By: Dedy Putra Aditia
     </div>
   </div>
 </footer>
